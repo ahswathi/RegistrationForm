@@ -15,9 +15,7 @@ import React from 'react';
 let App = ()=> {
   return (
     <>
-        <nav className="navbar navbar-expand-lg navbar-light bg-warning mb-4 ">
-            <span> Welcom to App Component </span>
-        </nav>
+        
        {/*  <WishMsg/> */}
        {/* <Counter/> */}
       {/*  <Product/> */}
